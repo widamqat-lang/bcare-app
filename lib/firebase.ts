@@ -3,7 +3,7 @@ import { getDatabase, Database } from "firebase/database";
 import { doc, getFirestore, setDoc, Firestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY || "AIzaSyAGg-JbCvGtAXU2gjfnqwfyT6iInLNR0g",
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY || "AIzaSyB75ueQ7Vzh8IwKKfj6Ei2gVwh8Fk2oPx8",
   authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN || "bcare-app---dashboard.firebaseapp.com",
   projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID || "bcare-app---dashboard",
   storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET || "bcare-app---dashboard.firebasestorage.app",
