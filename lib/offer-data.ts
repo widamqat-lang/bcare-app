@@ -4,7 +4,7 @@ export const offerData = [
     name: "تكافل الراجحي",
     company_id: "c105bc29-4514-4b7d-8b69-3e3578f58ceb",
     type: "against-others",
-    main_price: "778.16",
+    main_price: "317.16",
     created_at: "2025-03-24T18:48:18.486Z",
     updated_at: "2025-03-24T18:48:18.486Z",
     company: {
